@@ -9,24 +9,37 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+flaskWebApplicationsVsApis = new Template.Microlesson {
+  friendlyName = "Flask: Web Applications vs APIs"
+  dirName = "flask-web-applications-vs-apis"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+renderingHtmlTemplates = new Template.Microlesson {
+  friendlyName = "Rendering HTML Templates"
+  dirName = "rendering-html-templates"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+programmingLogicInTemplates = new Template.Microlesson {
+  friendlyName = "Programming Logic in Templates"
+  dirName = "programming-logic-in-templates"
   type = "Content"
   videoUrl = ""
 }
 
+sendingAndReceivingData = new Template.Microlesson {
+  friendlyName = "Sending and Receiving Data"
+  dirName = "sending-and-receiving-data"
+  type = "Content"
+  videoUrl = ""
+}
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}

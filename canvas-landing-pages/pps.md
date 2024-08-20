@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Flask Templates</span>
@@ -10,8 +9,8 @@ In this module, students will learn how to use Flask templates to create dynamic
 
 ## Content
 
-| Lesson                                                                         | Skills                                                                                                 |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| Lesson                                                                        | Skills                                                                                                 |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | [Setup](../setup/README.md)                                                    | Setting up the development environment.                                                                |
 | [Flask: Web Applications vs APIs](../flask-web-applications-vs-apis/README.md) | Understanding the difference between web applications and APIs.                                        |
 | [Rendering HTML Templates](../rendering-html-templates/README.md)              | Creating and rendering HTML templates using Flask and Jinja.                                           |

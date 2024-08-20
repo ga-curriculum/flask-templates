@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk-module-name",
+    "friendlyName": "Flask Templates",
+    "name": "flask-templates",
     "type": "Lesson"
   },
   "courses": [
@@ -20,21 +20,95 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Flask: Web Applications vs APIs",
+          "dirName": "flask-web-applications-vs-apis",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Rendering HTML Templates",
+          "dirName": "rendering-html-templates",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Programming Logic in Templates",
+          "dirName": "programming-logic-in-templates",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Sending and Receiving Data",
+          "dirName": "sending-and-receiving-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Flask: Web Applications vs APIs",
+          "dirName": "flask-web-applications-vs-apis",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Rendering HTML Templates",
+          "dirName": "rendering-html-templates",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Programming Logic in Templates",
+          "dirName": "programming-logic-in-templates",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Sending and Receiving Data",
+          "dirName": "sending-and-receiving-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],
