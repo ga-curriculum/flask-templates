@@ -1,3 +1,4 @@
+<!-- {% raw %} -->
 <h1>
   <span class="headline">Flask Templates</span>
   <span class="subhead">Programming Logic in Templates</span>
@@ -68,3 +69,4 @@ Create your `index` route in the server and complete the code needed to loop thr
   </body>
 </html>
 ```
+<!-- {% endraw %} -->
