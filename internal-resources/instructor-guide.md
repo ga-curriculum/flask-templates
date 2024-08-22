@@ -39,6 +39,10 @@ As you plan for your lesson:
 | 1:20–1:35 | Sending and Receiving Data                   |
 | 1:35–1:40 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
+## Lesson Exercises
+
+The exercises referenced in this lesson can be found in the [Python Flask Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-flask-exercises).
+
 🏗️ **Under Construction**
 
 We are constantly working to improve our resources for instructors and students.

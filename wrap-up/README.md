@@ -9,7 +9,13 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                        | **Looking Ahead**                                    |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| **In today’s class, we…**                                                        | **On your own:**                                     |
-| - Used Templates with a Flask API<br>- Rendered data from a server in a browser. | - Complete any remaining notebook exercises.<br><br> |
+| **Recap**                                                                        | **Looking Ahead**                           |
+| -------------------------------------------------------------------------------- | ------------------------------------------- |
+| **In today’s class, we…**                                                        | **On your own:**                            |
+| - Used Templates with a Flask API<br>- Rendered data from a server in a browser. | - Complete any remaining exercises.<br><br> |
+
+### Exit Tickets
+
+Please take the time to complete any **Exit Ticket Surveys** provided by your instructional team.
+
+![Exit Tickets](./assets/exit-ticket.png)
