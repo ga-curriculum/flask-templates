@@ -13,7 +13,9 @@
 
 - Use Flask to render html and templates
 - Use programming logic in templates to conditionally or programmatically render data
-- Explore sending and receiving more data
+- Explore sending and receiving more
+
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## Two Paths for Flask Applications
 
@@ -53,13 +55,13 @@ In a RESTful API, these CRUD operations are carried out through specific HTTP me
 
 The `C`, `U` and `D` routes do not have web pages tied to them and are for data manipulation only.
 
-![Data Manipulation Routes](./assets/data-routes.png)
+<img src="./assets/data-routes.png" alt="Data Manipulation Routes" style="width: 800px; height: auto;">
 
 ### Read - Routes for Serving Information
 
 When building a web application with Flask, some routes are specifically designed to deliver data or HTML content. These routes usually correspond to pages that users interact with, such as forms, dashboards, or content displays.
 
-![Read Only Routes](./assets/read-routes.png)
+<img src="./assets/read-routes.png" alt="Read Only Routes" style="width: 800px; height: auto;">
 
 > Notice these are all `GET` routes that can be requested by the browser.
 

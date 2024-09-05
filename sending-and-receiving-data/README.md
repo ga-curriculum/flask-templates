@@ -63,3 +63,5 @@ Create a route that accepts a `POST` request to `/reviews` and adds a new review
 - Extract the data sent in the request (book title, review text, score) and add this data to your existing list of reviews.
 
 - Use `Postman` or `curl` to practice sending data to your new create route.
+
+<img src="./assets/open-book.png" alt="Open Book Image" style="width: 300px; height: auto;">

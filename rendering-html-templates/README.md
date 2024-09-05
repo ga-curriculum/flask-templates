@@ -39,7 +39,7 @@ While this approach is handy for quick and simple outputs, it's not ideal for mo
 Even though Python is not a front-end technology, we can still use a Flask app to collect and send HTML files to user's browsers in a web application.
 Wherever your Flask application file lives, we'll need a folder named templates that's accessible at the same level as the main server file.
 
-![Flask Templates File Structure](./assets/flask-file-structure.png)
+<img src="./assets/flask-file-structure.png" alt="Flask Templates File Structure" style="width: 300px; height: auto;">
 
 ## What are Templates?
 
@@ -106,6 +106,8 @@ reviews = [
 ]
 ```
 
+<img src="./assets/open-book.png" alt="Open Book Image" style="width: 300px; height: auto;">
+
 And we want to make a `show` page that just displays one of the items in this list.
 
 ```html
@@ -144,6 +146,8 @@ Let's create the route for showing a specific review in our reviews app.
 
 Since this route leads to a specific item, we'll need a _route parameter_ to tell us which review the user wants. We'll need to include this parameter in how we define the **route url** and as an **argument** to the route handler function.
 
+<img src="./assets/fist-bump.png" alt="Fist Bump Image" style="width: 300px; height: auto;">
+
 ## HTML Crash Course!
 
 Before we dive deeper into Flask templates, it’s important to have a basic understanding of HTML, which is the language used to structure content on the web. If you’re new to HTML, don’t worry—this crash course will teach you just enough to get started.
@@ -152,7 +156,7 @@ Before we dive deeper into Flask templates, it’s important to have a basic und
 
 HTML (HyperText Markup Language) is the standard language for creating web pages. It consists of a series of elements that describe the structure and content of a webpage.
 
-![html](./assets/html.png)
+<img src="./assets/html.png" alt="HTML Structure" style="width: 800px; height: auto;">
 
 ### Basic HTML Structure
 
@@ -173,7 +177,7 @@ Here’s what a simple HTML document looks like:
 </html>
 ```
 
-![HTML basics](./assets/basics.png)
+<img src="./assets/basics.png" alt="HTML basics Image" style="width: 800px; height: auto;">
 
 ### Document Elements
 

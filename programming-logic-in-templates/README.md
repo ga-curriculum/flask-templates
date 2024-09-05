@@ -32,7 +32,7 @@ Jinja also supports conditional logic using `if`, `elif`, and `else` statements.
 
 Here’s an example of using `if/elif/else` in a Jinja template:
 
-<code>
+```html
 {% if temperature >= 32 %}
   <p>It's really hot outside!</p>
 {% elif temperature >= 21 %}
@@ -42,7 +42,7 @@ Here’s an example of using `if/elif/else` in a Jinja template:
 {% else %}
   <p>It's cold outside, bundle up!</p>
 {% endif %}
-</code>
+```
 
 <br>
 
