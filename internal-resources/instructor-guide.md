@@ -41,7 +41,7 @@ As you plan for your lesson:
 
 ## Lesson Exercises
 
-The exercises referenced in this lesson can be found in the [Python Flask Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-flask-exercises).
+The exercises referenced in this lesson can be found in the [Python Flask Exercises Repo](https://github.com/ga-curriculum/python-flask-exercises).
 
 🏗️ **Under Construction**
 
