@@ -41,10 +41,10 @@ As you plan for your lesson:
 
 ## Lesson Exercises
 
-The exercises referenced in this lesson can be found in the [Python Flask Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-flask-exercises).
+The exercises referenced in this lesson can be found in the [Python Flask Exercises Repo](https://github.com/ga-curriculum/python-flask-exercises).
 
 🏗️ **Under Construction**
 
 We are constantly working to improve our resources for instructors and students.
 
-**Have something to contribute to this Instructor Guide?** [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/TEMPLATE-Lab-Solution-Code-Module).
+**Have something to contribute to this Instructor Guide?** [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html).
